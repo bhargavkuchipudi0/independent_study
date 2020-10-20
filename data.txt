@@ -1,0 +1,40 @@
+{   
+    "parenting": {"covid": 727, "corona": 202, "coronavirus": 298, "sars-cov-2": 1, "covid-19": 389, "2019-nCoV": 1},
+    "babybumps": {"covid": 691, "corona": 110, "coronavirus": 181, "sars-cov-2": 1, "covid-19": 291, "2019-nCoV": 1},
+    "beyondthebump": {"covid": 638, "corona": 67, "coronavirus": 133, "sars-cov-2": 0, "covid-19": 165, "2019-nCoV": 0}
+}
+{"parenting": {"covid": {"january": 0, "february": 2, "march": 80, "april": 118, "may": 107, "june": 100, "july": 125, "august": 100, "september": 100, "october": 0, "novembers": 0, "december": 0}, "corona": {"january": 1, "february": 5, "march": 44, "april": 35, "may": 38, "june": 20, "july": 22, "august": 16, "september": 11, "october": 0, "novembers": 0, "december": 0}, "coronavirus": {"january": 4, "february": 14, "march": 72, "april": 60, "may": 29, "june": 27, "july": 27, "august": 25, "september": 10, "october": 0, "novembers": 0, "december": 0}, "sars-cov-2": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}, "covid-19": {"january": 0, "february": 0, "march": 8, "april": 24, "may": 21, "june": 35, "july": 29, "august": 32, "september": 11, "october": 0, "novembers": 0, "december": 0}, "2019-nCoV": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}}, "babybumps": {"covid": {"january": 0, "february": 0, "march": 79, "april": 107, "may": 118, "june": 100, "july": 123, "august": 102, "september": 100, "october": 0, "novembers": 0, "december": 0}, "corona": {"january": 1, "february": 3, "march": 41, "april": 17, "may": 15, "june": 9, "july": 9, "august": 8, "september": 4, "october": 0, "novembers": 0, "december": 0}, "coronavirus": {"january": 3, "february": 6, "march": 77, "april": 32, "may": 17, "june": 14, "july": 5, "august": 4, "september": 2, "october": 0, "novembers": 0, "december": 0}, "sars-cov-2": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}, "covid-19": {"january": 0, "february": 0, "march": 21, "april": 27, "may": 11, "june": 17, "july": 11, "august": 7, "september": 6, "october": 0, "novembers": 0, "december": 0}, "2019-nCoV": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}}, "beyondthebump": {"covid": {"january": 0, "february": 0, "march": 76, "april": 81, "may": 87, "june": 97, "july": 111, "august": 108, "september": 88, "october": 0, "novembers": 0, "december": 0}, "corona": {"january": 0, "february": 0, "march": 20, "april": 11, "may": 9, "june": 3, "july": 5, "august": 5, "september": 4, "october": 0, "novembers": 0, "december": 0}, "coronavirus": {"january": 2, "february": 5, "march": 59, "april": 22, "may": 12, "june": 5, "july": 7, "august": 4, "september": 5, "october": 0, "novembers": 0, "december": 0}, "sars-cov-2": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}, "covid-19": {"january": 0, "february": 0, "march": 5, "april": 1, "may": 2, "june": 1, "july": 1, "august": 0, "september": 1, "october": 0, "novembers": 0, "december": 0}, "2019-nCoV": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}}}
+
+{"parenting": 
+    {
+        "birth interventions": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0}, 
+        "home birth": {"january": 26, "february": 31, "march": 25, "april": 17, "may": 9, "june": 25, "july": 35, "august": 16, "september": 22, "october": 0, "novembers": 0, "december": 0},
+        "induced": {"january": 4, "february": 4, "march": 4, "april": 4, "may": 7, "june": 1, "july": 4, "august": 6, "september": 2, "october": 0, "novembers": 0, "december": 0},
+        "flu shot": {"january": 5, "february": 2, "march": 3, "april": 1, "may": 0, "june": 0, "july": 2, "august": 1, "september": 2, "october": 0, "novembers": 0, "december": 0},
+        "tdap": {"january": 0, "february": 1, "march": 0, "april": 0, "may": 0, "june": 1, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0},
+        "vaccination": {"january": 4, "february": 4, "march": 0, "april": 1, "may": 1, "june": 2, "july": 2, "august": 0, "september": 1, "october": 0, "novembers": 0, "december": 0},
+        "vaccine": {"january": 5, "february": 4, "march": 6, "april": 6, "may": 4, "june": 5, "july": 8, "august": 5, "september": 2, "october": 0, "novembers": 0, "december": 0}},
+"babybumps": 
+    {
+        "birth interventions":{"january": 8, "february": 5, "march": 1, "april": 4, "may": 0, "june": 3, "july": 3, "august": 3, "september": 7, "october": 0, "novembers": 0, "december": 0},
+        "home birth": {"january": 63, "february": 56, "march": 82, "april": 59, "may": 77, "june": 66, "july": 66, "august": 70, "september": 70, "october": 0, "novembers": 0, "december": 0},
+        "induced": {"january": 49, "february": 57, "march": 62, "april": 60, "may": 64, "june": 59, "july": 72, "august": 60, "september": 78, "october": 0, "novembers": 0, "december": 0},
+        "flu shot": {"january": 12, "february": 11, "march": 5, "april": 1, "may": 0, "june": 1, "july": 0, "august": 2, "september": 4, "october": 0, "novembers": 0, "december": 0},
+        "tdap": {"january": 2, "february": 2, "march": 3, "april": 1, "may": 4, "june": 4, "july": 2, "august": 2, "september": 1, "october": 0, "novembers": 0, "december": 0},
+        "vaccination": {"january": 1, "february": 1, "march": 0, "april": 4, "may": 1, "june": 0, "july": 2, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0},
+        "vaccine": {"january": 2, "february": 4, "march": 1, "april": 2, "may": 2, "june": 3, "july": 0, "august": 3, "september": 4, "october": 0, "novembers": 0, "december": 0}},
+"beyondthebump":
+    {
+        "birth interventions": {"january": 1, "february": 0, "march": 0, "april": 1, "may": 2, "june": 0, "july": 0, "august": 1, "september": 0, "october": 0, "novembers": 0, "december": 0},
+        "home birth": {"january": 26, "february": 29, "march": 20, "april": 27, "may": 20, "june": 17, "july": 28, "august": 27, "september": 20, "october": 0, "novembers": 0, "december": 0},
+        "induced": {"january": 8, "february": 6, "march": 4, "april": 10, "may": 9, "june": 9, "july": 8, "august": 13, "september": 10, "october": 0, "novembers": 0, "december": 0},
+        "flu shot": {"january": 10, "february": 2, "march": 3, "april": 1, "may": 1, "june": 1, "july": 1, "august": 0, "september": 1, "october": 0, "novembers": 0, "december": 0},
+        "tdap": {"january": 0, "february": 0, "march": 0, "april": 0, "may": 0, "june": 0, "july": 0, "august": 0, "september": 0, "october": 0, "novembers": 0, "december": 0},
+        "vaccination": {"january": 3, "february": 0, "march": 4, "april": 1, "may": 0, "june": 0, "july": 0, "august": 1, "september": 0, "october": 0, "novembers": 0, "december": 0},
+        "vaccine": {"january": 7, "february": 4, "march": 4, "april": 3, "may": 4, "june": 4, "july": 2, "august": 8, "september": 3, "october": 0, "novembers": 0, "december": 0}}
+    }
+
+
+{'covid': [1650, 1322, 702], 'corona': [184, 99, 47], 'coronavirus': [259, 179, 122], 'sars-cov-2': [0, 0, 0], 'covid-19': [0, 0, 9], '2019-nCoV': [0, 0, 0], 'birth interventions': [0, 21, 5], 'home birth': [158, 429, 164], 'induced': [31, 475, 64], 'flu shot': [12, 34, 17], 'tdap': [2, 15, 0], 'vaccination': [12, 6, 8], 'vaccine': [33, 18, 28]}
+
+
